@@ -1,0 +1,22 @@
+# Excel-Challenge
+Excel Homework
+1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+
+  The theatre parent category and more specifically the sub catgory of plays has the highest number of succesfull projects as well as total projects by a wide margin.
+  On the other hand, Journalism had the least by a large margin. 
+  Another conclusion we could make about this data is that December would be a bad time to start a project.
+
+2. What are some limitations of this dataset?
+
+  One limitation would be the data doesnt provide reasons for projects cancelling and or failing so we cannot draw a conclusion on whether certain categories are more
+  susceptible to cancelling and failing than others since it doesn't provide data on whether there are outside forces causing the cancelled/failed project. 
+  
+  This data also doesn't take into fact that it could be skewed by including the years kickstarter first launched. The amount of users are less on average in the beginning 
+  years as expected than the later years when kickstarter became more well-known or vetted so to speak.
+
+3. What are some other possible tables and/or graphs that we could create?
+
+  We could create another table showing the average time it takes to have a succesful project using date created to date ended as well as goal set for parent categories to give 
+  people an idea about how long it may take to complete your project based on what goal youre thinking of setting and what category your project would be listed as.
+  
+  
